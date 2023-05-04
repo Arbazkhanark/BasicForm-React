@@ -1,0 +1,31 @@
+.login,
+.register {
+  width: 400px;
+  background-color: transparent;
+  text-align: center;
+  margin: 50px auto;
+}
+
+.login h1,
+.register h1 {
+  color: white;
+  margin: 10px;
+}
+
+.login input,
+.register input {
+  /* width: 50%; */
+  padding: 10px;
+  border: 1px solid white;
+  background-color: rgb(160, 218, 241);
+}
+
+.loginBtn {
+  margin: 20px;
+  width: 50%;
+  padding: 10px;
+  color: skyblue;
+  font-size: larger;
+  border: 1px solid grey;
+  cursor: pointer;
+}
